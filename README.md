@@ -1,2 +1,2 @@
 # qrCodeGenerator
-its a basic html and CSS project 
+its a basic html and CSS project. 
